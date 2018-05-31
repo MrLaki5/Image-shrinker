@@ -84,6 +84,7 @@ namespace ImageShrink
                 }
                 img = ResizeImage(img, newW, newH);
                 img.Save(currPath+"\\Shrink\\"+rgFiles[i].Name, System.Drawing.Imaging.ImageFormat.Jpeg);
+                img.Dispose();
             }
             this.label3.Text = "Shrinking done!";
         }

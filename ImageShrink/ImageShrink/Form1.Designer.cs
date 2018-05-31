@@ -104,7 +104,7 @@ namespace ImageShrink
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(34, 13);
             this.label4.TabIndex = 4;
-            this.label4.Text = "v: 0.1";
+            this.label4.Text = "v: 0.2";
             // 
             // Form1
             // 
