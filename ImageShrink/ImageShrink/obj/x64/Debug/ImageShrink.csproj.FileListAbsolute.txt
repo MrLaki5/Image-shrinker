@@ -1,0 +1,13 @@
+C:\Users\mimar\Desktop\imageshrinker\ImageShrink\ImageShrink\bin\x64\Debug\ImageShrink.exe.config
+C:\Users\mimar\Desktop\imageshrinker\ImageShrink\ImageShrink\bin\x64\Debug\ImageShrink.exe.manifest
+C:\Users\mimar\Desktop\imageshrinker\ImageShrink\ImageShrink\bin\x64\Debug\ImageShrink.application
+C:\Users\mimar\Desktop\imageshrinker\ImageShrink\ImageShrink\bin\x64\Debug\ImageShrink.exe
+C:\Users\mimar\Desktop\imageshrinker\ImageShrink\ImageShrink\bin\x64\Debug\ImageShrink.pdb
+C:\Users\mimar\Desktop\imageshrinker\ImageShrink\ImageShrink\obj\x64\Debug\ImageShrink.csprojResolveAssemblyReference.cache
+C:\Users\mimar\Desktop\imageshrinker\ImageShrink\ImageShrink\obj\x64\Debug\ImageShrink.Form1.resources
+C:\Users\mimar\Desktop\imageshrinker\ImageShrink\ImageShrink\obj\x64\Debug\ImageShrink.Properties.Resources.resources
+C:\Users\mimar\Desktop\imageshrinker\ImageShrink\ImageShrink\obj\x64\Debug\ImageShrink.csproj.GenerateResource.Cache
+C:\Users\mimar\Desktop\imageshrinker\ImageShrink\ImageShrink\obj\x64\Debug\ImageShrink.exe.manifest
+C:\Users\mimar\Desktop\imageshrinker\ImageShrink\ImageShrink\obj\x64\Debug\ImageShrink.application
+C:\Users\mimar\Desktop\imageshrinker\ImageShrink\ImageShrink\obj\x64\Debug\ImageShrink.exe
+C:\Users\mimar\Desktop\imageshrinker\ImageShrink\ImageShrink\obj\x64\Debug\ImageShrink.pdb
