@@ -1,4 +1,5 @@
-﻿using System.Windows.Forms;
+﻿using System;
+using System.Windows.Forms;
 
 namespace ImageShrink
 {
@@ -36,12 +37,14 @@ namespace ImageShrink
             this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
+            this.progressBar1 = new System.Windows.Forms.ProgressBar();
+            this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             this.SuspendLayout();
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(103, 38);
+            this.label1.Location = new System.Drawing.Point(103, 23);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(91, 13);
             this.label1.TabIndex = 0;
@@ -50,7 +53,7 @@ namespace ImageShrink
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(86, 132);
+            this.button1.Location = new System.Drawing.Point(87, 108);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(119, 23);
             this.button1.TabIndex = 1;
@@ -79,11 +82,11 @@ namespace ImageShrink
             "20",
             "50",
             "100"});
-            this.comboBox1.Location = new System.Drawing.Point(73, 68);
+            this.comboBox1.Location = new System.Drawing.Point(73, 39);
             this.comboBox1.MaxDropDownItems = 7;
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(148, 21);
-            this.comboBox1.TabIndex = 0;
+            this.comboBox1.TabIndex = 5;
             this.comboBox1.Text = "2";
             this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.ComboBox1_SelectedIndexChanged);
             // 
@@ -91,9 +94,9 @@ namespace ImageShrink
             // 
             this.label3.AutoSize = true;
             this.label3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
-            this.label3.Location = new System.Drawing.Point(103, 186);
+            this.label3.Location = new System.Drawing.Point(103, 203);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(79, 13);
+            this.label3.Size = new System.Drawing.Size(81, 13);
             this.label3.TabIndex = 3;
             this.label3.Text = "";
             // 
@@ -104,7 +107,15 @@ namespace ImageShrink
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(34, 13);
             this.label4.TabIndex = 4;
-            this.label4.Text = "v: 0.2";
+            this.label4.Text = "v: 0.3";
+            // 
+            // progressBar1
+            // 
+            this.progressBar1.Visible = false;
+            this.progressBar1.Location = new System.Drawing.Point(73, 177);
+            this.progressBar1.Name = "progressBar1";
+            this.progressBar1.Size = new System.Drawing.Size(148, 23);
+            this.progressBar1.TabIndex = 5;
             // 
             // Form1
             // 
@@ -117,6 +128,7 @@ namespace ImageShrink
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.comboBox1);
+            this.Controls.Add(this.progressBar1);
             this.Name = "Form1";
             this.Text = "Image Shrinker";
             this.Load += new System.EventHandler(this.Form1_Load);
@@ -124,6 +136,8 @@ namespace ImageShrink
             this.PerformLayout();
 
         }
+
+        
 
         #endregion
 
@@ -133,6 +147,8 @@ namespace ImageShrink
         private System.Windows.Forms.ComboBox comboBox1;
         private Label label3;
         private Label label4;
+        private System.ComponentModel.BackgroundWorker backgroundWorker1;
+        private System.Windows.Forms.ProgressBar progressBar1;
     }
 }
 
