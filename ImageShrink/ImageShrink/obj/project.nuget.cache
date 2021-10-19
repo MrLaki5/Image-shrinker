@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NMKNFUbY+5zS9ETj3bzsBWE1x/WTxmaokpbdu/mPqPpGJNjbQFINXWsWmISEbpqDhS82bheMQ8CVPdReOvAKVQ==",
+  "dgSpecHash": "NY5RfDKDdRx65urhkLXeuGK+eZetjwcSUMzXGctlj6D6yszyyUigxzl13PF6BgN/aHktq9dsZOdBsPsFsr4DPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dragan\\desktop\\Image-shrinker\\ImageShrink\\ImageShrink\\ImageShrink.csproj",
+  "projectFilePath": "C:\\Users\\Dragan\\Desktop\\Image-shrinker\\ImageShrink\\ImageShrink\\ImageShrink.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dragan\\.nuget\\packages\\microsoft.dotnet.upgradeassistant.extensions.default.analyzers\\0.3.246501\\microsoft.dotnet.upgradeassistant.extensions.default.analyzers.0.3.246501.nupkg.sha512",
     "C:\\Users\\Dragan\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.1\\microsoft.netcore.platforms.5.0.1.nupkg.sha512",
