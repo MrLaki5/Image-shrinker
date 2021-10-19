@@ -11,3 +11,10 @@ C:\Users\mimar\Desktop\imageshrinker\ImageShrink\ImageShrink\obj\x86\Release\Ima
 C:\Users\mimar\Desktop\imageshrinker\ImageShrink\ImageShrink\obj\x86\Release\ImageShrink.application
 C:\Users\mimar\Desktop\imageshrinker\ImageShrink\ImageShrink\obj\x86\Release\ImageShrink.exe
 C:\Users\mimar\Desktop\imageshrinker\ImageShrink\ImageShrink\obj\x86\Release\ImageShrink.pdb
+C:\Users\Dragan\Desktop\Image-shrinker\ImageShrink\ImageShrink\obj\x86\Release\ImageShrink.csproj.AssemblyReference.cache
+C:\Users\Dragan\Desktop\Image-shrinker\ImageShrink\ImageShrink\obj\x86\Release\ImageShrink.Form1.resources
+C:\Users\Dragan\Desktop\Image-shrinker\ImageShrink\ImageShrink\obj\x86\Release\ImageShrink.Properties.Resources.resources
+C:\Users\Dragan\Desktop\Image-shrinker\ImageShrink\ImageShrink\obj\x86\Release\ImageShrink.csproj.GenerateResource.cache
+C:\Users\Dragan\Desktop\Image-shrinker\ImageShrink\ImageShrink\obj\x86\Release\ImageShrink.csproj.CoreCompileInputs.cache
+C:\Users\Dragan\Desktop\Image-shrinker\ImageShrink\ImageShrink\obj\x86\Release\ImageShrink.exe
+C:\Users\Dragan\Desktop\Image-shrinker\ImageShrink\ImageShrink\obj\x86\Release\ImageShrink.pdb
